@@ -56,16 +56,34 @@
 </div>
 
   <script>
-    var API_URL = "https://script.google.com/macros/s/AKfycbz19SCxiC3MarK4-WpaZ4cEWfPwtzW4MF1T4ugRlQ50ZV3458VqToI9UAvFfaIx-LKD/exec";
-    var NUMERO_WHATSAPP = "5493795001299"; // Reemplaza por tu número real
+    var API_URL = "https://script.google.com/macros/s/AKfycbz19SCxiC3MarK4-WpaZ4cEWfPwtzW4MF1T4ugR1Q50ZV3458VqToI9UAvFfaIx-LKD/exec";
+    var NUMERO_WHATSAPP = "5491112345678"; // Recuerda poner tu número real
 
     document.addEventListener("DOMContentLoaded", function() {
+      // 1. Si existen datos guardados previamente, los muestra AL INSTANTE
+      var datosGuardados = localStorage.getItem("catalogo_cache");
+      if (datosGuardados) {
+        try {
+          mostrarProductos(JSON.parse(datosGuardados));
+        } catch(e) {
+          console.error("Error al leer cache", e);
+        }
+      }
+
+      // 2. Consulta a Google Apps Script en segundo plano para actualizar precios/productos
       fetch(API_URL)
         .then(response => response.json())
-        .then(data => mostrarProductos(data))
+        .then(data => {
+          // Guarda la última versión de los productos en el navegador
+          localStorage.setItem("catalogo_cache", JSON.stringify(data));
+          // Actualiza la pantalla sin parpadeos
+          mostrarProductos(data);
+        })
         .catch(err => {
           console.error("Error al obtener productos:", err);
-          document.getElementById("productos").innerText = "Error al cargar el catálogo.";
+          if (!datosGuardados) {
+            document.getElementById("productos").innerText = "Error al cargar el catálogo.";
+          }
         });
     });
 
