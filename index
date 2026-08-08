@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Productos</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f5f5f7; color: #1d1d1f; padding: 10px 8px; -webkit-font-smoothing: antialiased;
+    }
+    #productos {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px; width: 100%; max-width: 1200px; margin: 0 auto;
+    }
+    .card {
+      background: #ffffff; border-radius: 14px; padding: 12px 8px; text-align: center;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04); display: flex; flex-direction: column;
+      justify-content: space-between; border: 1px solid rgba(0, 0, 0, 0.04); overflow: hidden;
+    }
+    .img-container { height: 110px; display: flex; align-items: center; justify-content: center; margin-bottom: 6px; }
+    .card img { max-width: 100%; max-height: 100%; object-fit: contain; }
+    .card h2 { font-size: 12px; font-weight: 700; letter-spacing: -0.2px; color: #1d1d1f; margin-bottom: 2px; text-transform: uppercase; line-height: 1.2; }
+    .detalles { color: #86868b; font-size: 10px; font-weight: 400; margin-bottom: 6px; }
+    .precio-destacado { font-size: 14px; font-weight: 700; letter-spacing: -0.3px; color: #1d1d1f; margin-bottom: 8px; }
+    .opciones-pago-container { margin-bottom: 8px; text-align: left; width: 100%; }
+    .opciones-titulo { font-size: 8px; font-weight: 600; color: #86868b; letter-spacing: 0.2px; margin-bottom: 6px; text-align: center; text-transform: uppercase; }
+    .opciones-list { display: flex; flex-direction: column; gap: 4px; width: 100%; }
+    .pago-option { display: flex; align-items: center; background-color: #fbfbfd; border: 1px solid #e5e5ea; border-radius: 8px; padding: 6px; font-size: 9.5px; font-weight: 500; color: #1d1d1f; cursor: pointer; width: 100%; box-sizing: border-box; }
+    .pago-option input[type="radio"] { margin-right: 6px; accent-color: #0071e3; width: 13px; height: 13px; flex-shrink: 0; cursor: pointer; }
+    .pago-option span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: block; width: 100%; }
+    .btn-apple { display: block; background-color: #0071e3; color: #ffffff; padding: 8px 4px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 10px; letter-spacing: -0.1px; text-align: center; width: 100%; }
+    .btn-apple:active { transform: scale(0.97); }
+    @media (max-width: 767px) {
+      #productos { grid-template-columns: repeat(2, 1fr) !important; gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="productos">Cargando productos...</div>
+
+  <script>
+    var API_URL = "PEGA_AQUI_TU_URL_DE_APPS_SCRIPT";
+    var NUMERO_WHATSAPP = "5491112345678"; // Reemplaza por tu número real
+
+    document.addEventListener("DOMContentLoaded", function() {
+      fetch(API_URL)
+        .then(response => response.json())
+        .then(data => mostrarProductos(data))
+        .catch(err => {
+          console.error("Error al obtener productos:", err);
+          document.getElementById("productos").innerText = "Error al cargar el catálogo.";
+        });
+    });
+
+    function mostrarProductos(productos) {
+      var contenedor = document.getElementById("productos");
+      if (!contenedor) return;
+      contenedor.innerHTML = "";
+
+      productos.forEach(function(p, index) {
+        var precioEfectivo = Number(Math.round(p.precio || 0)).toLocaleString('es-AR');
+        var c3 = Number(Math.round(p.cuotas3 || 0)).toLocaleString('es-AR');
+        var c6 = Number(Math.round(p.cuotas6 || 0)).toLocaleString('es-AR');
+        var c12 = Number(Math.round(p.cuotas12 || 0)).toLocaleString('es-AR');
+        var precioUsd = p.precioDolar || 0;
+
+        var batTexto = '';
+        if (typeof p.bateria === 'number' && p.bateria <= 1) {
+          batTexto = Math.round(p.bateria * 100) + '%';
+        } else {
+          batTexto = p.bateria || '';
+        }
+
+        var capUpper = String(p.capacidad || '').toUpperCase().trim();
+        var batUpper = String(p.bateria || '').toUpperCase().trim();
+
+        var textoDetalles = '';
+        if (capUpper === 'SELLADO' || batUpper === 'SELLADO' || !p.bateria) {
+          textoDetalles = p.capacidad;
+        } else {
+          textoDetalles = p.capacidad + ' | Batería: ' + batTexto;
+        }
+
+        var html = '<div class="card" id="card-' + index + '">' +
+          '<div>' +
+            '<div class="img-container">' +
+              '<img src="' + p.foto + '" alt="' + p.modelo + '">' +
+            '</div>' +
+            '<h2>' + p.modelo + '</h2>' +
+            '<p class="detalles">' + textoDetalles + '</p>' +
+            '<h3 class="precio-destacado">USD ' + precioUsd + '</h3>' +
+          '</div>' +
+          '<div class="opciones-pago-container">' +
+            '<p class="opciones-titulo">SELECCIONAR MEDIO DE PAGO:</p>' +
+            '<div class="opciones-list">' +
+              '<label class="pago-option">' +
+                '<input type="radio" name="pago-' + index + '" value="Contado USD ' + precioUsd + '" checked>' +
+                '<span>Contado USD ' + precioUsd + '</span>' +
+              '</label>' +
+              '<label class="pago-option">' +
+                '<input type="radio" name="pago-' + index + '" value="Contado PESOS ($' + precioEfectivo + ')">' +
+                '<span>Contado PESOS ($' + precioEfectivo + ')</span>' +
+              '</label>' +
+              '<label class="pago-option">' +
+                '<input type="radio" name="pago-' + index + '" value="3 cuotas de $' + c3 + '">' +
+                '<span>3 cuotas de $' + c3 + '</span>' +
+              '</label>' +
+              '<label class="pago-option">' +
+                '<input type="radio" name="pago-' + index + '" value="6 cuotas de $' + c6 + '">' +
+                '<span>6 cuotas de $' + c6 + '</span>' +
+              '</label>' +
+              '<label class="pago-option">' +
+                '<input type="radio" name="pago-' + index + '" value="12 cuotas de $' + c12 + '">' +
+                '<span>12 cuotas de $' + c12 + '</span>' +
+              '</label>' +
+            '</div>' +
+          '</div>' +
+          '<a id="btn-ws-' + index + '" class="btn-apple" href="https://wa.me/' + NUMERO_WHATSAPP + '" target="_blank">' +
+            'Consultar por WhatsApp' +
+          '</a>' +
+        '</div>';
+
+        contenedor.innerHTML += html;
+      });
+
+      productos.forEach(function(p, index) {
+        var btn = document.getElementById("btn-ws-" + index);
+        if (btn) {
+          btn.addEventListener("click", function() {
+            var seleccion = document.querySelector('input[name="pago-' + index + '"]:checked');
+            var opcionPago = seleccion ? seleccion.value : 'No especificada';
+            var mensaje = "Hola! Quisiera consultar por el " + p.modelo + " de " + p.capacidad + ".\nMedio de pago seleccionado: " + opcionPago;
+            btn.href = "https://wa.me/" + NUMERO_WHATSAPP + "?text=" + encodeURIComponent(mensaje);
+          });
+        }
+      });
+    }
+  </script>
+</body>
+</html>
