@@ -5,7 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catálogo de Productos</title>
   <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    .skeleton {
+  height: 250px;
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
     body {
       font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background-color: #f5f5f7; color: #1d1d1f; padding: 10px 8px; -webkit-font-smoothing: antialiased;
@@ -38,7 +48,12 @@
   </style>
 </head>
 <body>
-  <div id="productos">Cargando productos...</div>
+  <div id="productos">
+  <div class="card skeleton"></div>
+  <div class="card skeleton"></div>
+  <div class="card skeleton"></div>
+  <div class="card skeleton"></div>
+</div>
 
   <script>
     var API_URL = "https://script.google.com/macros/s/AKfycbz19SCxiC3MarK4-WpaZ4cEWfPwtzW4MF1T4ugRlQ50ZV3458VqToI9UAvFfaIx-LKD/exec";
