@@ -264,16 +264,37 @@
       });
 
       productos.forEach(function(p, index) {
-        var btn = document.getElementById("btn-ws-" + index);
-        if (btn) {
-          btn.addEventListener("click", function() {
-            var seleccion = document.querySelector('input[name="pago-' + index + '"]:checked');
-            var opcionPago = seleccion ? seleccion.value : 'No especificada';
-            var mensaje = "Hola! Quisiera consultar por el " + p.modelo + " de " + p.capacidad + ".\nMedio de pago seleccionado: " + opcionPago;
-            btn.href = "https://wa.me/" + NUMERO_WHATSAPP + "?text=" + encodeURIComponent(mensaje);
-          });
-        }
-      });
+  var btn = document.getElementById("btn-ws-" + index);
+  if (btn) {
+    btn.addEventListener("click", function(e) {
+      e.preventDefault(); // Evita que se abra un enlace vacío o desactualizado
+
+      // 1. Obtener la opción de pago seleccionada en el momento exacto
+      var seleccion = document.querySelector('input[name="pago-' + index + '"]:checked');
+      var opcionPago = seleccion ? seleccion.value : 'No especificada';
+
+      // 2. Formatear el texto de batería y capacidad
+      var batTexto = (typeof p.bateria === 'number' && p.bateria <= 1) ? Math.round(p.bateria * 100) + '%' : (p.bateria || '');
+      var capUpper = String(p.capacidad || '').toUpperCase().trim();
+      var batUpper = String(p.bateria || '').toUpperCase().trim();
+
+      var textoDetalles = '';
+      if (capUpper === 'SELLADO' || batUpper === 'SELLADO' || !p.bateria || p.bateria === '') {
+        textoDetalles = p.capacidad;
+      } else {
+        textoDetalles = p.capacidad + ' | Batería: ' + batTexto;
+      }
+
+      // 3. Armar el mensaje completo con modelo, capacidad y batería
+      var detallesMensaje = textoDetalles ? " (" + textoDetalles + ")" : "";
+      var mensaje = "Hola! Quisiera consultar por el " + p.modelo + detallesMensaje + ".\nMedio de pago seleccionado: " + opcionPago;
+
+      // 4. Abrir la ventana de WhatsApp
+      var url = "https://wa.me/" + NUMERO_WHATSAPP + "?text=" + encodeURIComponent(mensaje);
+      window.open(url, '_blank');
+    });
+  }
+});
     }
   </script>
 </body>
