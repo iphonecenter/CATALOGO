@@ -1,0 +1,13 @@
+[
+  {
+    "modelo": "iPhone 13",
+    "capacidad": "128 GB",
+    "bateria": "88%",
+    "precioDolar": 480,
+    "precio": 550000,
+    "cuotas3": 210000,
+    "cuotas6": 115000,
+    "cuotas12": 65000,
+    "foto": "https://link-de-tu-foto.com/iphone13.jpg"
+  }
+]
