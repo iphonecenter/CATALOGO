@@ -88,6 +88,17 @@
     "foto": ""
   },
   {
+    "modelo": "IPHONE 13",
+    "capacidad": "128gb",
+    "bateria": 1,
+    "precioDolar": 10,
+    "precio": 16050,
+    "cuotas3": 7350.900000000001,
+    "cuotas6": 4178.35,
+    "cuotas12": 2741.875,
+    "foto": ""
+  },
+  {
     "modelo": "IPHONE 13 PRO",
     "capacidad": "128gb",
     "bateria": 0.86,
