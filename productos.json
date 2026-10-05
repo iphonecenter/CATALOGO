@@ -136,10 +136,10 @@
     "capacidad": "256gb",
     "bateria": 1,
     "precioDolar": 625,
-    "precio": 0,
-    "cuotas3": 0,
-    "cuotas6": 0,
-    "cuotas12": 0,
+    "precio": 1003125,
+    "cuotas3": 459431.25,
+    "cuotas6": 261146.875,
+    "cuotas12": 171367.18749999997,
     "foto": ""
   },
   {
