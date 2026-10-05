@@ -48,10 +48,10 @@
     "capacidad": "128gb",
     "bateria": 0.78,
     "precioDolar": 300,
-    "precio": "224.202        127.440        83.627",
-    "cuotas3": "#VALUE!",
-    "cuotas6": "#VALUE!",
-    "cuotas12": "#VALUE!",
+    "precio": 0,
+    "cuotas3": 0,
+    "cuotas6": 0,
+    "cuotas12": 0,
     "foto": ""
   },
   {
