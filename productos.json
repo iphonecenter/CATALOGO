@@ -4,10 +4,10 @@
     "capacidad": "64gb",
     "bateria": 0.82,
     "precioDolar": 200,
-    "precio": 321000,
-    "cuotas3": 147018.00000000003,
-    "cuotas6": 83567,
-    "cuotas12": 54837.5,
+    "precio": 0,
+    "cuotas3": 297711.45,
+    "cuotas6": 169223.17500000002,
+    "cuotas12": 111045.9375,
     "foto": ""
   },
   {
@@ -37,10 +37,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 405,
-    "precio": 0,
-    "cuotas3": 0,
-    "cuotas6": 0,
-    "cuotas12": 0,
+    "precio": 650025,
+    "cuotas3": "#REF!",
+    "cuotas6": "#REF!",
+    "cuotas12": "#REF!",
     "foto": ""
   },
   {
