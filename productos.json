@@ -409,7 +409,7 @@
   {
     "modelo": "PLAN CANJE",
     "capacidad": "",
-    "bateria": "",
+    "bateria": 300,
     "precioDolar": 300,
     "precio": 0,
     "cuotas3": 0,
