@@ -167,12 +167,12 @@
   {
     "modelo": "IPHONE 15",
     "capacidad": "128gb",
-    "bateria": 0.85,
+    "bateria": 0.88,
     "precioDolar": 475,
-    "precio": 0,
-    "cuotas3": 0,
-    "cuotas6": 0,
-    "cuotas12": 0,
+    "precio": 760000,
+    "cuotas3": 348080.00000000006,
+    "cuotas6": 197853.33333333334,
+    "cuotas12": 129833.33333333331,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_784557-MLA95493924244_102025-O.jpg"
   },
   {
