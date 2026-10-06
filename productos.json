@@ -367,10 +367,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 1340,
-    "precio": 0,
-    "cuotas3": 0,
-    "cuotas6": 0,
-    "cuotas12": 0,
+    "precio": 2144000,
+    "cuotas3": 981952.0000000001,
+    "cuotas6": 558154.6666666666,
+    "cuotas12": 366266.6666666667,
     "foto": "https://http2.mlstatic.com/D_Q_NP_964942-MLA104127286834_012026-F.webp"
   }
 ]
