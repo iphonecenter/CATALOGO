@@ -121,6 +121,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_904255-MLA95680311246_102025-F.webp"
   },
   {
+    "modelo": "IPHONE 14 PRO",
+    "capacidad": "128gb",
+    "bateria": 1,
+    "precioDolar": 525,
+    "precio": 840000,
+    "cuotas3": 384720,
+    "cuotas6": 218680,
+    "cuotas12": 143499.99999999997,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_770607-MLM51559385328_092022-F.webp"
+  },
+  {
     "modelo": "IPHONE 14 PRO MAX",
     "capacidad": "128gb",
     "bateria": 1,
