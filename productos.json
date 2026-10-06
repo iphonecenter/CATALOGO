@@ -276,6 +276,17 @@
   },
   {
     "modelo": "IPHONE 17",
+    "capacidad": "256gb",
+    "bateria": 1,
+    "precioDolar": 840,
+    "precio": 1344000,
+    "cuotas3": 615552.0000000001,
+    "cuotas6": 349888,
+    "cuotas12": 229599.99999999997,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_991341-MLA96870912827_102025-F.webp"
+  },
+  {
+    "modelo": "IPHONE 17",
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 980,
