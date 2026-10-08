@@ -101,7 +101,7 @@
   {
     "modelo": "IPHONE 13 PRO MAX",
     "capacidad": "128gb",
-    "bateria": 1,
+    "bateria": 0.76,
     "precioDolar": 480,
     "precio": 780000,
     "cuotas3": 357240,
