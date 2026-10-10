@@ -4,10 +4,10 @@
     "capacidad": "64gb",
     "bateria": 0.82,
     "precioDolar": 200,
-    "precio": 319000,
-    "cuotas3": 146102.00000000003,
-    "cuotas6": 83046.33333333333,
-    "cuotas12": 54495.833333333336,
+    "precio": 320000,
+    "cuotas3": 146560.00000000003,
+    "cuotas6": 83306.66666666667,
+    "cuotas12": 54666.666666666664,
     "foto": "https://http2.mlstatic.com/D_Q_NP_880896-MLA96145678701_102025-F.webp"
   },
   {
@@ -15,10 +15,10 @@
     "capacidad": "256gb",
     "bateria": 0.78,
     "precioDolar": 270,
-    "precio": 430650,
-    "cuotas3": 197237.70000000004,
-    "cuotas6": 112112.55,
-    "cuotas12": 73569.37499999999,
+    "precio": 432000,
+    "cuotas3": 197856,
+    "cuotas6": 112464,
+    "cuotas12": 73799.99999999999,
     "foto": "https://http2.mlstatic.com/D_Q_NP_934353-CBT112470782960_062026-F.webp"
   },
   {
@@ -26,10 +26,10 @@
     "capacidad": "256gb",
     "bateria": 0.89,
     "precioDolar": 305,
-    "precio": 486475,
-    "cuotas3": 222805.55000000002,
-    "cuotas6": 126645.65833333334,
-    "cuotas12": 83106.14583333333,
+    "precio": 488000,
+    "cuotas3": 223504,
+    "cuotas6": 127042.66666666667,
+    "cuotas12": 83366.66666666666,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_933957-MLA94080137183_102025-O.jpg"
   },
   {
@@ -37,10 +37,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 405,
-    "precio": 645975,
-    "cuotas3": 295856.55,
-    "cuotas6": 168168.825,
-    "cuotas12": 110354.0625,
+    "precio": 648000,
+    "cuotas3": 296784.00000000006,
+    "cuotas6": 168696,
+    "cuotas12": 110700,
     "foto": "https://http2.mlstatic.com/D_Q_NP_954361-MLA46088620319_052021-F.webp"
   },
   {
@@ -48,10 +48,10 @@
     "capacidad": "128gb",
     "bateria": 0.78,
     "precioDolar": 300,
-    "precio": 478500,
-    "cuotas3": 219153,
-    "cuotas6": 124569.5,
-    "cuotas12": 81743.74999999999,
+    "precio": 480000,
+    "cuotas3": 219840,
+    "cuotas6": 124960,
+    "cuotas12": 81999.99999999999,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_787642-MLA95698363690_102025-O.jpg"
   },
   {
@@ -59,10 +59,10 @@
     "capacidad": "128gb",
     "bateria": 0.84,
     "precioDolar": 330,
-    "precio": 526350,
-    "cuotas3": 241068.30000000002,
-    "cuotas6": 137026.45,
-    "cuotas12": 89918.125,
+    "precio": 528000,
+    "cuotas3": 241824,
+    "cuotas6": 137456,
+    "cuotas12": 90200,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_787642-MLA95698363690_102025-O.jpg"
   },
   {
@@ -70,10 +70,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 335,
-    "precio": 534325,
-    "cuotas3": 244720.85,
-    "cuotas6": 139102.60833333334,
-    "cuotas12": 91280.52083333333,
+    "precio": 536000,
+    "cuotas3": 245488.00000000003,
+    "cuotas6": 139538.66666666666,
+    "cuotas12": 91566.66666666667,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_913349-MLA99434552514_112025-O.jpg"
   },
   {
@@ -81,10 +81,10 @@
     "capacidad": "128gb",
     "bateria": 0.86,
     "precioDolar": 420,
-    "precio": 669900,
-    "cuotas3": 306814.2,
-    "cuotas6": 174397.30000000002,
-    "cuotas12": 114441.24999999999,
+    "precio": 672000,
+    "cuotas3": 307776.00000000006,
+    "cuotas6": 174944,
+    "cuotas12": 114799.99999999999,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_721034-MLA99940568823_112025-F.webp"
   },
   {
@@ -92,10 +92,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 450,
-    "precio": 717750,
-    "cuotas3": 328729.50000000006,
-    "cuotas6": 186854.25,
-    "cuotas12": 122615.62499999999,
+    "precio": 720000,
+    "cuotas3": 329760.00000000006,
+    "cuotas6": 187440,
+    "cuotas12": 122999.99999999999,
     "foto": "https://http2.mlstatic.com/D_Q_NP_985933-MLA97093826577_112025-F.webp"
   },
   {
@@ -103,10 +103,10 @@
     "capacidad": "128gb",
     "bateria": 0.76,
     "precioDolar": 480,
-    "precio": 765600,
-    "cuotas3": 350644.80000000005,
-    "cuotas6": 199311.19999999998,
-    "cuotas12": 130789.99999999999,
+    "precio": 768000,
+    "cuotas3": 351744,
+    "cuotas6": 199936,
+    "cuotas12": 131199.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_865602-MLA94367446475_102025-F.webp"
   },
   {
@@ -114,10 +114,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 510,
-    "precio": 813450,
-    "cuotas3": 372560.10000000003,
-    "cuotas6": 211768.15000000002,
-    "cuotas12": 138964.37499999997,
+    "precio": 816000,
+    "cuotas3": 373728,
+    "cuotas6": 212432,
+    "cuotas12": 139399.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_865602-MLA94367446475_102025-F.webp"
   },
   {
@@ -125,10 +125,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 385,
-    "precio": 614075,
-    "cuotas3": 281246.35000000003,
-    "cuotas6": 159864.19166666668,
-    "cuotas12": 104904.47916666667,
+    "precio": 616000,
+    "cuotas3": 282128.00000000006,
+    "cuotas6": 160365.33333333334,
+    "cuotas12": 105233.33333333333,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_787642-MLA95698363690_102025-O.jpg"
   },
   {
@@ -136,10 +136,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 525,
-    "precio": 837375,
-    "cuotas3": 383517.75,
-    "cuotas6": 217996.625,
-    "cuotas12": 143051.56249999997,
+    "precio": 840000,
+    "cuotas3": 384720,
+    "cuotas6": 218680,
+    "cuotas12": 143499.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_770607-MLM51559385328_092022-F.webp"
   },
   {
@@ -147,10 +147,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 575,
-    "precio": 917125,
-    "cuotas3": 420043.25,
-    "cuotas6": 238758.20833333334,
-    "cuotas12": 156675.5208333333,
+    "precio": 920000,
+    "cuotas3": 421360,
+    "cuotas6": 239506.66666666666,
+    "cuotas12": 157166.66666666666,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_612163-MLA95635471710_102025-O.jpg"
   },
   {
@@ -158,10 +158,10 @@
     "capacidad": "256gb",
     "bateria": 1,
     "precioDolar": 625,
-    "precio": 996875,
-    "cuotas3": 456568.75,
-    "cuotas6": 259519.79166666666,
-    "cuotas12": 170299.47916666666,
+    "precio": 1000000,
+    "cuotas3": 458000,
+    "cuotas6": 260333.33333333334,
+    "cuotas12": 170833.3333333333,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_612163-MLA95635471710_102025-O.jpg"
   },
   {
@@ -169,10 +169,10 @@
     "capacidad": "128gb",
     "bateria": 0.85,
     "precioDolar": 475,
-    "precio": 757625,
-    "cuotas3": 346992.25000000006,
-    "cuotas6": 197235.04166666666,
-    "cuotas12": 129427.60416666664,
+    "precio": 760000,
+    "cuotas3": 348080.00000000006,
+    "cuotas6": 197853.33333333334,
+    "cuotas12": 129833.33333333331,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_784557-MLA95493924244_102025-O.jpg"
   },
   {
@@ -180,10 +180,10 @@
     "capacidad": "128gb",
     "bateria": 0.88,
     "precioDolar": 480,
-    "precio": 765600,
-    "cuotas3": 350644.80000000005,
-    "cuotas6": 199311.19999999998,
-    "cuotas12": 130789.99999999999,
+    "precio": 768000,
+    "cuotas3": 351744,
+    "cuotas6": 199936,
+    "cuotas12": 131199.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_643747-MLA96098710751_102025-F.webp"
   },
   {
@@ -191,10 +191,10 @@
     "capacidad": "128gb",
     "bateria": 1,
     "precioDolar": 495,
-    "precio": 789525,
-    "cuotas3": 361602.45,
-    "cuotas6": 205539.67500000002,
-    "cuotas12": 134877.18749999997,
+    "precio": 792000,
+    "cuotas3": 362736,
+    "cuotas6": 206184,
+    "cuotas12": 135299.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_901991-MLA96144091409_102025-F.webp"
   },
   {
@@ -202,10 +202,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 695,
-    "precio": 1108525,
-    "cuotas3": 507704.45,
-    "cuotas6": 288586.00833333336,
-    "cuotas12": 189373.02083333334,
+    "precio": 1112000,
+    "cuotas3": 509296.00000000006,
+    "cuotas6": 289490.6666666667,
+    "cuotas12": 189966.66666666666,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_784557-MLA95493924244_102025-O.jpg"
   },
   {
@@ -213,10 +213,10 @@
     "capacidad": "128gb",
     "bateria": 0.88,
     "precioDolar": 605,
-    "precio": 964975,
-    "cuotas3": 441958.55000000005,
-    "cuotas6": 251215.15833333333,
-    "cuotas12": 164849.8958333333,
+    "precio": 968000,
+    "cuotas3": 443344,
+    "cuotas6": 252002.66666666666,
+    "cuotas12": 165366.66666666666,
     "foto": "https://http2.mlstatic.com/D_Q_NP_675166-MLA104459789310_012026-F.webp"
   },
   {
@@ -224,10 +224,10 @@
     "capacidad": "128gb",
     "bateria": 0.99,
     "precioDolar": 620,
-    "precio": 988900,
-    "cuotas3": 452916.2,
-    "cuotas6": 257443.63333333333,
-    "cuotas12": 168937.0833333333,
+    "precio": 992000,
+    "cuotas3": 454336,
+    "cuotas6": 258250.66666666666,
+    "cuotas12": 169466.66666666666,
     "foto": "https://http2.mlstatic.com/D_Q_NP_933234-MLA95498909620_102025-F.webp"
   },
   {
@@ -235,10 +235,10 @@
     "capacidad": "256gb",
     "bateria": 0.89,
     "precioDolar": 720,
-    "precio": 1148400,
-    "cuotas3": 525967.2000000001,
-    "cuotas6": 298966.8,
-    "cuotas12": 196185,
+    "precio": 1152000,
+    "cuotas3": 527616.0000000001,
+    "cuotas6": 299904,
+    "cuotas12": 196800,
     "foto": "https://http2.mlstatic.com/D_Q_NP_818896-MLA93082494250_092025-F.webp"
   },
   {
@@ -246,10 +246,10 @@
     "capacidad": "256gb",
     "bateria": 0.92,
     "precioDolar": 730,
-    "precio": 1164350,
-    "cuotas3": 533272.3,
-    "cuotas6": 303119.11666666664,
-    "cuotas12": 198909.79166666666,
+    "precio": 1168000,
+    "cuotas3": 534944.0000000001,
+    "cuotas6": 304069.3333333333,
+    "cuotas12": 199533.33333333334,
     "foto": "https://http2.mlstatic.com/D_Q_NP_909707-MLA95499188054_102025-F.webp"
   },
   {
@@ -257,10 +257,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 850,
-    "precio": 1355750,
-    "cuotas3": 620933.5000000001,
-    "cuotas6": 352946.9166666667,
-    "cuotas12": 231607.29166666663,
+    "precio": 1360000,
+    "cuotas3": 622880.0000000001,
+    "cuotas6": 354053.3333333333,
+    "cuotas12": 232333.33333333328,
     "foto": "https://http2.mlstatic.com/D_Q_NP_838311-MLA99501450112_112025-F.webp"
   },
   {
@@ -268,10 +268,10 @@
     "capacidad": "256gb",
     "bateria": 0.88,
     "precioDolar": 915,
-    "precio": 1459425,
-    "cuotas3": 668416.65,
-    "cuotas6": 379936.97500000003,
-    "cuotas12": 249318.43749999997,
+    "precio": 1464000,
+    "cuotas3": 670512.0000000001,
+    "cuotas6": 381128,
+    "cuotas12": 250099.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
   },
   {
@@ -279,10 +279,10 @@
     "capacidad": "256gb",
     "bateria": 0.92,
     "precioDolar": 920,
-    "precio": 1467400,
-    "cuotas3": 672069.2000000001,
-    "cuotas6": 382013.13333333336,
-    "cuotas12": 250680.83333333328,
+    "precio": 1472000,
+    "cuotas3": 674176.0000000001,
+    "cuotas6": 383210.6666666667,
+    "cuotas12": 251466.66666666663,
     "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
   },
   {
@@ -290,10 +290,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 980,
-    "precio": 1577100,
-    "cuotas3": 722311.8000000002,
-    "cuotas6": 410571.7,
-    "cuotas12": 269421.24999999994,
+    "precio": 1582000,
+    "cuotas3": 724556,
+    "cuotas6": 411847.3333333333,
+    "cuotas12": 270258.3333333333,
     "foto": "https://http2.mlstatic.com/D_Q_NP_980754-MLA91746544678_092025-F.webp"
   },
   {
@@ -301,10 +301,10 @@
     "capacidad": "256gb",
     "bateria": 0.92,
     "precioDolar": 1150,
-    "precio": 1834250,
-    "cuotas3": 840086.5,
-    "cuotas6": 477516.4166666667,
-    "cuotas12": 313351.0416666666,
+    "precio": 1840000,
+    "cuotas3": 842720,
+    "cuotas6": 479013.3333333333,
+    "cuotas12": 314333.3333333333,
     "foto": "https://http2.mlstatic.com/D_Q_NP_757550-MLA104127137078_012026-F.webp"
   },
   {
@@ -312,10 +312,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 1260,
-    "precio": 2009700,
-    "cuotas3": 920442.6000000001,
-    "cuotas6": 523191.89999999997,
-    "cuotas12": 343323.74999999994,
+    "precio": 2016000,
+    "cuotas3": 923328,
+    "cuotas6": 524832,
+    "cuotas12": 344399.99999999994,
     "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
   },
   {
@@ -323,10 +323,10 @@
     "capacidad": "256gb",
     "bateria": 0.91,
     "precioDolar": 1220,
-    "precio": 1945900,
-    "cuotas3": 891222.2000000001,
-    "cuotas6": 506582.63333333336,
-    "cuotas12": 332424.5833333333,
+    "precio": 1952000,
+    "cuotas3": 894016,
+    "cuotas6": 508170.6666666667,
+    "cuotas12": 333466.6666666666,
     "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
   },
   {
@@ -334,10 +334,10 @@
     "capacidad": "256gb",
     "bateria": 1,
     "precioDolar": 1270,
-    "precio": 2025650,
-    "cuotas3": 927747.7000000001,
-    "cuotas6": 527344.2166666667,
-    "cuotas12": 346048.5416666666,
+    "precio": 2032000,
+    "cuotas3": 930656,
+    "cuotas6": 528997.3333333334,
+    "cuotas12": 347133.3333333333,
     "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
   },
   {
@@ -345,10 +345,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 1340,
-    "precio": 2137300,
-    "cuotas3": 978883.4,
-    "cuotas6": 556410.4333333333,
-    "cuotas12": 365122.0833333333,
+    "precio": 2144000,
+    "cuotas3": 981952.0000000001,
+    "cuotas6": 558154.6666666666,
+    "cuotas12": 366266.6666666667,
     "foto": "https://http2.mlstatic.com/D_Q_NP_964942-MLA104127286834_012026-F.webp"
   },
   {
@@ -356,10 +356,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 1520,
-    "precio": 2424400,
-    "cuotas3": 1110375.2,
-    "cuotas6": 631152.1333333334,
-    "cuotas12": 414168.3333333333,
+    "precio": 2432000,
+    "cuotas3": 1113856.0000000002,
+    "cuotas6": 633130.6666666666,
+    "cuotas12": 415466.6666666667,
     "foto": "https://cdn.billowshop.com/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/2938/IPHONE-18-PRO-max-black-6ab84920a25b0.webp"
   },
   {
@@ -367,10 +367,10 @@
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 1770,
-    "precio": 2823150,
-    "cuotas3": 1293002.7,
-    "cuotas6": 734960.0499999999,
-    "cuotas12": 482288.12499999994,
+    "precio": 2832000,
+    "cuotas3": 1297056.0000000002,
+    "cuotas6": 737264,
+    "cuotas12": 483799.99999999994,
     "foto": "https://cdn.billowshop.com/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/2938/IPHONE-18-PRO-max-black-6ab84920a25b0.webp"
   }
 ]
