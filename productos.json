@@ -123,7 +123,7 @@
   {
     "modelo": "IPHONE 14",
     "capacidad": "128gb",
-    "bateria": 1,
+    "bateria": 0.84,
     "precioDolar": 385,
     "precio": 625625,
     "cuotas3": 286536.25000000006,
