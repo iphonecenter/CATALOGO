@@ -124,11 +124,11 @@
     "modelo": "IPHONE 14",
     "capacidad": "128gb",
     "bateria": 0.84,
-    "precioDolar": 385,
-    "precio": 625625,
-    "cuotas3": 286536.25000000006,
-    "cuotas6": 162871.04166666666,
-    "cuotas12": 106877.60416666667,
+    "precioDolar": 350,
+    "precio": 568750,
+    "cuotas3": 260487.50000000003,
+    "cuotas6": 148064.58333333334,
+    "cuotas12": 97161.45833333333,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_787642-MLA95698363690_102025-O.jpg"
   },
   {
@@ -295,39 +295,6 @@
     "cuotas6": 511880.4166666667,
     "cuotas12": 335901.0416666666,
     "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
-  },
-  {
-    "modelo": "IPHONE 17 PRO MAX",
-    "capacidad": "256gb",
-    "bateria": 1,
-    "precioDolar": 1270,
-    "precio": 2063750,
-    "cuotas3": 945197.5,
-    "cuotas6": 537262.9166666666,
-    "cuotas12": 352557.2916666667,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
-  },
-  {
-    "modelo": "IPHONE 17 PRO MAX",
-    "capacidad": "SELLADO",
-    "bateria": "",
-    "precioDolar": 1340,
-    "precio": 2177500,
-    "cuotas3": 997295.0000000001,
-    "cuotas6": 566875.8333333334,
-    "cuotas12": 371989.5833333333,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_964942-MLA104127286834_012026-F.webp"
-  },
-  {
-    "modelo": "IPHONE 18 PRO",
-    "capacidad": "SELLADO",
-    "bateria": "",
-    "precioDolar": 1445,
-    "precio": 2348125,
-    "cuotas3": 1075441.2500000002,
-    "cuotas6": 611295.2083333334,
-    "cuotas12": 401138.0208333333,
-    "foto": "https://cdn.billowshop.com/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/2938/IPHONE-18-PRO-max-black-6ab84920a25b0.webp"
   },
   {
     "modelo": "IPHONE 18 PRO MAX",
