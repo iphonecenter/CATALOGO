@@ -11,6 +11,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_880896-MLA96145678701_102025-F.webp"
   },
   {
+    "modelo": "IPHONE 11 PRO",
+    "capacidad": "64gb",
+    "bateria": 0.9,
+    "precioDolar": 250,
+    "precio": 375000,
+    "cuotas3": 171750.00000000003,
+    "cuotas6": 97625,
+    "cuotas12": 64062.49999999999,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_929457-MLA32445355265_102019-O.jpg"
+  },
+  {
     "modelo": "IPHONE 11 PRO MAX",
     "capacidad": "256gb",
     "bateria": 0.78,
