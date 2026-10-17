@@ -209,26 +209,26 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_675166-MLA104459789310_012026-F.webp"
   },
   {
-    "modelo": "IPHONE 15 PRO MAX",
-    "capacidad": "256gb",
-    "bateria": 0.89,
-    "precioDolar": 720,
-    "precio": 1170000,
-    "cuotas3": 535860.0000000001,
-    "cuotas6": 304590,
-    "cuotas12": 199875,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_818896-MLA93082494250_092025-F.webp"
+    "modelo": "IPHONE 15 PRO",
+    "capacidad": "128gb",
+    "bateria": 0.99,
+    "precioDolar": 620,
+    "precio": 1007500,
+    "cuotas3": 461435,
+    "cuotas6": 262285.8333333333,
+    "cuotas12": 172114.5833333333,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_933234-MLA95498909620_102025-F.webp"
   },
   {
-    "modelo": "IPHONE 16",
-    "capacidad": "SELLADO",
-    "bateria": "",
-    "precioDolar": 850,
-    "precio": 1381250,
-    "cuotas3": 632612.5000000001,
-    "cuotas6": 359585.4166666667,
-    "cuotas12": 235963.54166666663,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_838311-MLA99501450112_112025-F.webp"
+    "modelo": "IPHONE 15 PRO MAX",
+    "capacidad": "256gb",
+    "bateria": 0.96,
+    "precioDolar": 730,
+    "precio": 1186250,
+    "cuotas3": 543302.5000000001,
+    "cuotas6": 308820.4166666667,
+    "cuotas12": 202651.04166666666,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_909707-MLA95499188054_102025-F.webp"
   },
   {
     "modelo": "IPHONE 16 PRO",
@@ -242,15 +242,15 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_832784-MLA96870784623_102025-F.webp"
   },
   {
-    "modelo": "IPHONE 16 PRO MAX",
-    "capacidad": "256gb",
-    "bateria": 0.88,
-    "precioDolar": 915,
-    "precio": 1486875,
-    "cuotas3": 680988.7500000001,
-    "cuotas6": 387083.125,
-    "cuotas12": 254007.81249999997,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
+    "modelo": "IPHONE 16 PRO",
+    "capacidad": "SELLADO",
+    "bateria": "",
+    "precioDolar": 1010,
+    "precio": 1641250,
+    "cuotas3": 751692.5,
+    "cuotas6": 427272.0833333333,
+    "cuotas12": 280380.2083333333,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_864108-MLA99979989417_112025-F.webp"
   },
   {
     "modelo": "IPHONE 16 PRO MAX",
@@ -286,14 +286,25 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_757550-MLA104127137078_012026-F.webp"
   },
   {
+    "modelo": "IPHONE 17 PRO",
+    "capacidad": "256gb",
+    "bateria": 1,
+    "precioDolar": 1205,
+    "precio": 1958125,
+    "cuotas3": 896821.25,
+    "cuotas6": 509765.2083333333,
+    "cuotas12": 334513.0208333333,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_757550-MLA104127137078_012026-F.webp"
+  },
+  {
     "modelo": "IPHONE 17 PRO MAX",
     "capacidad": "256gb",
-    "bateria": 0.91,
-    "precioDolar": 1210,
-    "precio": 1966250,
-    "cuotas3": 900542.5,
-    "cuotas6": 511880.4166666667,
-    "cuotas12": 335901.0416666666,
+    "bateria": 1,
+    "precioDolar": 1270,
+    "precio": 2063750,
+    "cuotas3": 945197.5,
+    "cuotas6": 537262.9166666666,
+    "cuotas12": 352557.2916666667,
     "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
   },
   {
