@@ -110,17 +110,6 @@
     "foto": "https://http2.mlstatic.com/D_NQ_NP_913349-MLA99434552514_112025-O.jpg"
   },
   {
-    "modelo": "IPHONE 13 PRO",
-    "capacidad": "128gb",
-    "bateria": 1,
-    "precioDolar": 470,
-    "precio": 770800,
-    "cuotas3": 353026.4000000001,
-    "cuotas6": 200664.93333333335,
-    "cuotas12": 131678.3333333333,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_985933-MLA97093826577_112025-F.webp"
-  },
-  {
     "modelo": "IPHONE 13 PRO MAX",
     "capacidad": "128gb",
     "bateria": 0.76,
@@ -163,6 +152,50 @@
     "cuotas6": 164374.46666666667,
     "cuotas12": 107864.16666666667,
     "foto": "https://http2.mlstatic.com/D_NQ_NP_787642-MLA95698363690_102025-O.jpg"
+  },
+  {
+    "modelo": "IPHONE 14 PRO",
+    "capacidad": "128gb",
+    "bateria": 1,
+    "precioDolar": 525,
+    "precio": 861000,
+    "cuotas3": 394338,
+    "cuotas6": 224147,
+    "cuotas12": 147087.49999999997,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_770607-MLM51559385328_092022-F.webp"
+  },
+  {
+    "modelo": "IPHONE 14 PRO",
+    "capacidad": "256gb",
+    "bateria": 0.8,
+    "precioDolar": 510,
+    "precio": 836400,
+    "cuotas3": 383071.2,
+    "cuotas6": 217742.80000000002,
+    "cuotas12": 142884.99999999997,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_775048-MLA103740357906_012026-F.webp"
+  },
+  {
+    "modelo": "IPHONE 14 PRO MAX",
+    "capacidad": "128gb",
+    "bateria": 1,
+    "precioDolar": 570,
+    "precio": 934800,
+    "cuotas3": 428138.4000000001,
+    "cuotas6": 243359.6,
+    "cuotas12": 159694.99999999997,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_612163-MLA95635471710_102025-O.jpg"
+  },
+  {
+    "modelo": "IPHONE 14 PRO MAX",
+    "capacidad": "256gb",
+    "bateria": 1,
+    "precioDolar": 625,
+    "precio": 1025000,
+    "cuotas3": 469450,
+    "cuotas6": 266841.6666666667,
+    "cuotas12": 175104.16666666666,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_612163-MLA95635471710_102025-O.jpg"
   },
   {
     "modelo": "IPHONE 15",
