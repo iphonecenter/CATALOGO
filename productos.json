@@ -232,6 +232,17 @@
   },
   {
     "modelo": "IPHONE 16",
+    "capacidad": "128gb",
+    "bateria": 0.87,
+    "precioDolar": 625,
+    "precio": 1043750,
+    "cuotas3": 478037.5,
+    "cuotas6": 271722.9166666667,
+    "cuotas12": 178307.29166666666,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_758703-MLA96075178973_102025-F.webp"
+  },
+  {
+    "modelo": "IPHONE 16",
     "capacidad": "SELLADO",
     "bateria": "",
     "precioDolar": 850,
