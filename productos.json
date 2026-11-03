@@ -1,16 +1,5 @@
 [
   {
-    "modelo": "IPHONE X",
-    "capacidad": "64gb",
-    "bateria": 0.76,
-    "precioDolar": 110,
-    "precio": 176000,
-    "cuotas3": 80608.00000000001,
-    "cuotas6": 45818.666666666664,
-    "cuotas12": 30066.66666666666,
-    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqtoZZOLg_OpfwLsnCuDzb_2VNEMdk5m9yG_mOLpCKbw&s=10"
-  },
-  {
     "modelo": "IPHONE 11",
     "capacidad": "64gb",
     "bateria": 0.82,
