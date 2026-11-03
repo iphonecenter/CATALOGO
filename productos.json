@@ -253,6 +253,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
   },
   {
+    "modelo": "IPHONE 17",
+    "capacidad": "SELLADO",
+    "bateria": "",
+    "precioDolar": 985,
+    "precio": 1571075,
+    "cuotas3": 719552.3500000001,
+    "cuotas6": 409003.19166666665,
+    "cuotas12": 268391.9791666666,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_980754-MLA91746544678_092025-F.webp"
+  },
+  {
     "modelo": "IPHONE 17 PRO",
     "capacidad": "256gb",
     "bateria": 0.92,
