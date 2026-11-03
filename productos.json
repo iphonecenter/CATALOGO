@@ -88,6 +88,17 @@
     "foto": "https://http2.mlstatic.com/D_NQ_NP_913349-MLA99434552514_112025-O.jpg"
   },
   {
+    "modelo": "IPHONE 13 PRO",
+    "capacidad": "128gb",
+    "bateria": 1,
+    "precioDolar": 470,
+    "precio": 749650,
+    "cuotas3": 343339.7,
+    "cuotas6": 195158.88333333333,
+    "cuotas12": 128065.20833333331,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_985933-MLA97093826577_112025-F.webp"
+  },
+  {
     "modelo": "IPHONE 13 PRO MAX",
     "capacidad": "128gb",
     "bateria": 0.76,
