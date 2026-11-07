@@ -209,6 +209,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_675166-MLA104459789310_012026-F.webp"
   },
   {
+    "modelo": "IPHONE 15 PRO",
+    "capacidad": "128gb",
+    "bateria": 0.99,
+    "precioDolar": 620,
+    "precio": 992000,
+    "cuotas3": 454336,
+    "cuotas6": 258250.66666666666,
+    "cuotas12": 169466.66666666666,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_933234-MLA95498909620_102025-F.webp"
+  },
+  {
     "modelo": "IPHONE 15 PRO MAX",
     "capacidad": "256gb",
     "bateria": 0.89,
