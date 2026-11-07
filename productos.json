@@ -211,12 +211,12 @@
   {
     "modelo": "IPHONE 15 PRO",
     "capacidad": "128gb",
-    "bateria": 0.99,
-    "precioDolar": 620,
-    "precio": 992000,
-    "cuotas3": 454336,
-    "cuotas6": 258250.66666666666,
-    "cuotas12": 169466.66666666666,
+    "bateria": 1,
+    "precioDolar": 630,
+    "precio": 1008000,
+    "cuotas3": 461664,
+    "cuotas6": 262416,
+    "cuotas12": 172199.99999999997,
     "foto": "https://http2.mlstatic.com/D_Q_NP_933234-MLA95498909620_102025-F.webp"
   },
   {
