@@ -220,6 +220,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_758703-MLA96075178973_102025-F.webp"
   },
   {
+    "modelo": "IPHONE 16",
+    "capacidad": "SELLADO",
+    "bateria": "",
+    "precioDolar": 840,
+    "precio": 1344000,
+    "cuotas3": 615552.0000000001,
+    "cuotas6": 349888,
+    "cuotas12": 229599.99999999997,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_838311-MLA99501450112_112025-F.webp"
+  },
+  {
     "modelo": "IPHONE 16 PRO",
     "capacidad": "128gb",
     "bateria": 0.92,
@@ -251,17 +262,6 @@
     "cuotas6": 383210.6666666667,
     "cuotas12": 251466.66666666663,
     "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
-  },
-  {
-    "modelo": "IPHONE 17",
-    "capacidad": "SELLADO",
-    "bateria": "",
-    "precioDolar": 1020,
-    "precio": 1632000,
-    "cuotas3": 747456,
-    "cuotas6": 424864,
-    "cuotas12": 278799.99999999994,
-    "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_805686-MLA104669964949_012026-F.webp"
   },
   {
     "modelo": "IPHONE 17 PRO",
