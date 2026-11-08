@@ -187,6 +187,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_901991-MLA96144091409_102025-F.webp"
   },
   {
+    "modelo": "IPHONE 15",
+    "capacidad": "SELLADO",
+    "bateria": "",
+    "precioDolar": 685,
+    "precio": 1096000,
+    "cuotas3": 501968.00000000006,
+    "cuotas6": 285325.3333333333,
+    "cuotas12": 187233.33333333334,
+    "foto": "https://http2.mlstatic.com/D_NQ_NP_784557-MLA95493924244_102025-O.jpg"
+  },
+  {
     "modelo": "IPHONE 15 PRO",
     "capacidad": "128gb",
     "bateria": 0.88,
