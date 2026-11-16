@@ -266,6 +266,17 @@
   {
     "modelo": "IPHONE 16 PRO MAX",
     "capacidad": "256gb",
+    "bateria": 0.88,
+    "precioDolar": 885,
+    "precio": 1438000,
+    "cuotas3": 658604.0000000001,
+    "cuotas6": 374359.3333333333,
+    "cuotas12": 245658.33333333328,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
+  },
+  {
+    "modelo": "IPHONE 16 PRO MAX",
+    "capacidad": "256gb",
     "bateria": 0.92,
     "precioDolar": 920,
     "precio": 1495000,
@@ -275,36 +286,36 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_655013-MLA99442466886_112025-F.webp"
   },
   {
-    "modelo": "IPHONE 17",
-    "capacidad": "SELLADO",
-    "bateria": "",
-    "precioDolar": 1020,
-    "precio": 1658000,
-    "cuotas3": 759364,
-    "cuotas6": 431632.6666666667,
-    "cuotas12": 283241.6666666666,
-    "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_805686-MLA104669964949_012026-F.webp"
-  },
-  {
     "modelo": "IPHONE 17 PRO",
     "capacidad": "256gb",
-    "bateria": 1,
-    "precioDolar": 1205,
-    "precio": 1958000,
-    "cuotas3": 896764,
-    "cuotas6": 509732.6666666667,
-    "cuotas12": 334491.6666666666,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_757550-MLA104127137078_012026-F.webp"
+    "bateria": 0.92,
+    "precioDolar": 1115,
+    "precio": 1812000,
+    "cuotas3": 829896,
+    "cuotas6": 471724,
+    "cuotas12": 309549.99999999994,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_964942-MLA104127286834_012026-F.webp"
   },
   {
-    "modelo": "IPHONE 18 PRO",
+    "modelo": "IPHONE 17 PRO MAX",
     "capacidad": "SELLADO",
     "bateria": "",
-    "precioDolar": 1440,
-    "precio": 2340000,
-    "cuotas3": 1071720.0000000002,
-    "cuotas6": 609180,
-    "cuotas12": 399750,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_869659-MLA118432909922_102026-F.webp"
+    "precioDolar": 1340,
+    "precio": 2178000,
+    "cuotas3": 997524.0000000001,
+    "cuotas6": 567006,
+    "cuotas12": 372075,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_919058-MLA104669489859_012026-F.webp"
+  },
+  {
+    "modelo": "IPHONE 18 PRO MAX",
+    "capacidad": "SELLADO",
+    "bateria": "",
+    "precioDolar": 1650,
+    "precio": 2681000,
+    "cuotas3": 1227898.0000000002,
+    "cuotas6": 697953.6666666666,
+    "cuotas12": 458004.16666666657,
+    "foto": "https://cdn.billowshop.com/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/2938/IPHONE-18-PRO-max-black-6ab84920a25b0.webp"
   }
 ]
