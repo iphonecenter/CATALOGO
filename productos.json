@@ -12,6 +12,17 @@
   },
   {
     "modelo": "IPHONE 11",
+    "capacidad": "64gb",
+    "bateria": 0.82,
+    "precioDolar": 175,
+    "precio": 284000,
+    "cuotas3": 130072.00000000001,
+    "cuotas6": 73934.66666666667,
+    "cuotas12": 48516.666666666664,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_880896-MLA96145678701_102025-F.webp"
+  },
+  {
+    "modelo": "IPHONE 11",
     "capacidad": "128gb",
     "bateria": 0.75,
     "precioDolar": 175,
