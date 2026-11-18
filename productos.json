@@ -35,17 +35,6 @@
   {
     "modelo": "IPHONE 11 PRO MAX",
     "capacidad": "256gb",
-    "bateria": 0.78,
-    "precioDolar": 225,
-    "precio": 368000,
-    "cuotas3": 168544.00000000003,
-    "cuotas6": 95802.66666666667,
-    "cuotas12": 62866.66666666666,
-    "foto": "https://http2.mlstatic.com/D_Q_NP_934353-CBT112470782960_062026-F.webp"
-  },
-  {
-    "modelo": "IPHONE 11 PRO MAX",
-    "capacidad": "256gb",
     "bateria": 0.89,
     "precioDolar": 240,
     "precio": 392000,
