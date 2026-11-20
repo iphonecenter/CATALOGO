@@ -253,6 +253,17 @@
     "foto": "https://http2.mlstatic.com/D_Q_NP_832784-MLA96870784623_102025-F.webp"
   },
   {
+    "modelo": "IPHONE 16 PRO",
+    "capacidad": "SELLADO",
+    "bateria": "",
+    "precioDolar": 1010,
+    "precio": 1712000,
+    "cuotas3": 784096,
+    "cuotas6": 445690.6666666667,
+    "cuotas12": 292466.6666666666,
+    "foto": "https://http2.mlstatic.com/D_Q_NP_864108-MLA99979989417_112025-F.webp"
+  },
+  {
     "modelo": "IPHONE 16 PRO MAX",
     "capacidad": "256gb",
     "bateria": 0.88,
